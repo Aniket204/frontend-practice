@@ -1,0 +1,1 @@
+This project consists of small problem statements and POCs for frontend development
